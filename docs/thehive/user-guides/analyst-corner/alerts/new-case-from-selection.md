@@ -4,7 +4,7 @@ This section provides guidance on creating a new case from a selected alert.
 
 On the main alerts page, where all alerts are displayed, there are various types of alerts, including new and imported ones. The **New Case from Selection** option is only available for new alerts listed.
 
-![New Case Selection Menu](../images/alerts-actions.png)
+![New Case Selection Menu](./images/alerts-actions.png)
 
 ## Steps to Add a New Case from a Selected Alert
 
@@ -14,7 +14,7 @@ On the main alerts page, where all alerts are displayed, there are various types
 
 A new window will open to facilitate the creation of the new case.
 
-![New Case from Selection](../images/alerts-newcase-from-selection.png)
+![New Case from Selection](./images/alerts-newcase-from-selection.png)
 
 ## Important Notes
 
