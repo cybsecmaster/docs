@@ -4,7 +4,17 @@ This documentation outlines the supported versions, prerequisites, configuration
 
 The migration from TheHive 3.x to TheHive 5.x involves transferring data stored in Elasticsearch. TheHive 5.x is provided with a tool to help you migrate your data.
 
+<<<<<<< HEAD
 The migration tool is located in `/opt/thehive/bin/migrate`. It facilitates the transition from both TheHive 3.4.x and 3.5.x versions.
+=======
+The migration tool is located in `/opt/thehive/bin/migrate`. 
+
+---
+
+## Supported Versions
+
+The migration tool facilitates the transition from both TheHive 3.4.x and 3.5.x versions.
+>>>>>>> 525146ffc7f41ff0ab7ea6603bf5166019329aa7
 
 ---
 
